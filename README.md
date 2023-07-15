@@ -2,6 +2,6 @@
 
 ### I am not yet familiar with blender but i am hoping to learn
 
-### I have quite the experience to develop own duino-based boards. 
+### but I have quite the experience in developing my own duino-based boards. 
 
 wish me luck...
